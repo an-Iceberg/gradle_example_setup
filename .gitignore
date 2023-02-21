@@ -68,3 +68,6 @@ Desktop.ini
 
 # databases
 *.sqlite
+
+# Ignore Gradle build output directory
+build
