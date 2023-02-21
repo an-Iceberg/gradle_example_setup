@@ -7,7 +7,7 @@ public class App
 {
   public String getGreeting()
   {
-    return "Hello Prog2!";
+    return "Hello Wordle!";
   }
 
   public static void main(String[] args)
